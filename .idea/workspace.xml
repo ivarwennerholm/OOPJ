@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Carowner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Djur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Däggdjur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Fågel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Kolibri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Kräldjur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Sköldpadda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Djur_6/Val.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Bil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Fordon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Bil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Båt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Cykel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Fordon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2A/Tåg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/HederligeHarryDel1/BilAnnons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/HederligeHarryDel1/FordonsAnnons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/HederligeHarryDel1/HusvagnsAnnons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/HederligeHarryDel1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/HederligeHarryDel1/MotorcykelAnnons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +63,7 @@
       <updated>1695725459028</updated>
       <workItem from="1695725460119" duration="12805000" />
       <workItem from="1695739271234" duration="4355000" />
+      <workItem from="1695811495741" duration="1333000" />
     </task>
     <servers />
   </component>
