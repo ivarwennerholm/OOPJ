@@ -1,4 +1,4 @@
-package Sprint1.FordonAbstrakt_2B;
+package Sprint1.Fordon_2B_Abstrakt;
 
 public class Bil extends Fordon {
     private int antalVäxlar;

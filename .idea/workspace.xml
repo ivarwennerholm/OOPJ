@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Kurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Lärare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Övningsuppgift3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Cykel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Fordon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Hjulburen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Kaktus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/KöttätandeVäxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Palm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Skrivbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Växt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Kurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Lärare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Övningsuppgift3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Bil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Bil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Fordon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Fordon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,23 +62,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Sprint1/FordonAbstrakt_2B&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/topicboy/MEGA/Nackademin/Javauteckling/inluppar/inlupp3.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_3B" />
+      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2D_Interface" />
+      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2C" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\FordonAbstrakt_2B" />
     </key>
   </component>
@@ -64,6 +100,9 @@
       <workItem from="1695725460119" duration="12805000" />
       <workItem from="1695739271234" duration="4355000" />
       <workItem from="1695811495741" duration="1333000" />
+      <workItem from="1695822500287" duration="789000" />
+      <workItem from="1695884771058" duration="18708000" />
+      <workItem from="1696251383414" duration="9362000" />
     </task>
     <servers />
   </component>
