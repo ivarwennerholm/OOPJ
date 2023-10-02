@@ -4,17 +4,18 @@ public class Greenest {
 
 
     public static void main(String[] args) {
+        Gästlista gästlista = new Gästlista();
         KöttätandeVäxt meatloaf = new KöttätandeVäxt(0.7, "Meatloaf");
-        Gästlista.addGäst(meatloaf);
+        gästlista.addGäst(meatloaf);
         Palm laura = new Palm(5, "Laura");
-        Gästlista.addGäst(laura);
+        gästlista.addGäst(laura);
         Palm olof = new Palm(1, "Olof");
-        Gästlista.addGäst(olof);
+        gästlista.addGäst(olof);
         Kaktus igge = new Kaktus(0.2, "Igge");
-        Gästlista.addGäst(igge);
+        gästlista.addGäst(igge);
 
-        Gästlista.printGästlista();
-        Gästlista.vattna();
+        gästlista.printGästlista();
+        gästlista.vattna();
     }
 
 }

@@ -4,36 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Kurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Lärare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/ArvOchArrayer_3A/Övningsuppgift3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Bil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Cykel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Fordon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Hjulburen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2CD_Interface/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Kaktus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/KöttätandeVäxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Palm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Skrivbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Växt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Kurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Lärare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_3B/Övningsuppgift3.java" afterDir="false" />
+    <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Bil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Bil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Fordon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Fordon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/FordonAbstrakt_2B/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Fordon_2B_Abstrakt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -68,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "instans-av-Gästlista",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/topicboy/MEGA/Nackademin/Javauteckling/inluppar/inlupp3.1",
     "node.js.detected.package.eslint": "true",
@@ -102,11 +81,23 @@
       <workItem from="1695811495741" duration="1333000" />
       <workItem from="1695822500287" duration="789000" />
       <workItem from="1695884771058" duration="18708000" />
-      <workItem from="1696251383414" duration="9362000" />
+      <workItem from="1696251383414" duration="9785000" />
     </task>
+    <task id="LOCAL−00001" summary="Fungerande A-del">
+      <option name="closed" value="true" />
+      <created>1696261020685</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1696261020685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fungerande A-del" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fungerande A-del" />
   </component>
 </project>
