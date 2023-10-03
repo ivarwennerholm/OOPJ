@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Enums_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Enums_9/RomerskaSiffror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <workItem from="1696251383414" duration="10220000" />
       <workItem from="1696320576922" duration="294000" />
       <workItem from="1696322714972" duration="219000" />
-      <workItem from="1696322952060" duration="3073000" />
+      <workItem from="1696322952060" duration="6902000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
