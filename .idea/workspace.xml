@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Enums_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Enums_9/RomerskaSiffror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +41,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "instans-av-Gästlista",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/topicboy/MEGA/Nackademin/Javauteckling/inluppar/inlupp3.1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/Javauteckling/inluppar/inlupp3.1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_3B" />
@@ -81,7 +81,10 @@
       <workItem from="1695811495741" duration="1333000" />
       <workItem from="1695822500287" duration="789000" />
       <workItem from="1695884771058" duration="18708000" />
-      <workItem from="1696251383414" duration="9785000" />
+      <workItem from="1696251383414" duration="10220000" />
+      <workItem from="1696320576922" duration="294000" />
+      <workItem from="1696322714972" duration="219000" />
+      <workItem from="1696322952060" duration="3073000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
