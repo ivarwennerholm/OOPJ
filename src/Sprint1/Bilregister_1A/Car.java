@@ -12,6 +12,10 @@ public class Car {
         this.owner = owner;
     }
 
+    protected Carowner getOwner () {
+        return this.owner;
+    }
+
     @Override
     public String toString () {
         return ("Registreringsnummer: " + this.licenceNumber + "\n" +
