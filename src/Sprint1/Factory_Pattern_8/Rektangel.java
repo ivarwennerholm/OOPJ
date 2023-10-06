@@ -1,11 +1,13 @@
-package Sprint1.Listor_Arv_Generics_7A;
+package Sprint1.Factory_Pattern_8;
 
 public class Rektangel extends Figur {
 
     private double bredd, höjd;
-    Rektangel (double bredd, double höjd) {
+
+    Rektangel(int startx, int starty, double bredd, double höjd) {
         this.bredd = bredd;
         this.höjd = höjd;
+        super.setStartpunkt(startx, starty);
     }
 
     @Override

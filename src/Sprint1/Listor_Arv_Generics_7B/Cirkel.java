@@ -1,14 +1,14 @@
-package Sprint1.Listor_Arv_Generics_7A;
+package Sprint1.Listor_Arv_Generics_7B;
 
-public class Circel extends Figur{
+public class Cirkel extends Figur {
     private double radie;
 
-    Circel (double radie) {
+    Cirkel(double radie) {
         this.radie = radie;
     }
 
     @Override
-    public double Area() {
+    public double area() {
         return (Math.PI * (this.radie * this.radie));
     }
 }

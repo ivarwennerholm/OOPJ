@@ -5,26 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Circel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Figur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/LiksidigTriangel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Punkt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Rektangel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Test/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint1/Bilregister_1A/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint1/Test/ChipsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Bankomaten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Kund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Lån.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Ränteändring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Figurfabrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Cirkel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Figur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/LiksidigTriangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Punkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Rektangel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Bilregister_1A/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Greenest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Gästlista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Kaktus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/KöttätandeVäxt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Palm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Skrivbar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Inlämningsuppgift1/Växt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Circel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Circel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Figur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Figur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/LiksidigTriangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Liksidigtriangel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Punkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Punkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Rektangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Rektangel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/Javauteckling/inluppar/inlupp3.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Sprint1/Listor_Arv_Generics_7B&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -86,6 +86,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_Arv_Generics_7B" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_3B" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2D_Interface" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2C" />
@@ -177,7 +178,8 @@
       <workItem from="1696322952060" duration="14333000" />
       <workItem from="1696419127373" duration="1108000" />
       <workItem from="1696497556360" duration="9000" />
-      <workItem from="1696509558412" duration="1950000" />
+      <workItem from="1696509558412" duration="4905000" />
+      <workItem from="1696611396033" duration="6166000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
