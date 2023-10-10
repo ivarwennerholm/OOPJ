@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Bankomaten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Kund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Lån.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Bankomaten_10/Ränteändring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Figurfabrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Cirkel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Figur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/LiksidigTriangel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Punkt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7B/Rektangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Bensinförbrukning_Scanner_4/Bensinförbrukning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Bensinförbrukning_TDD_2/Bensinförbrukning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/IsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Härmapa_3/Härmapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Bensinförbrukning_ScannerTest/BensinförbrukningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Bensinförbrukning_TDD_2/BensinförbrukningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/IsoscelesTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/SquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Circel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Circel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Figur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Figur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/LiksidigTriangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Liksidigtriangel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Punkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Punkt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sprint1/Listor_Arv_Generics_7A/Rektangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sprint1/Factory_Pattern_8/Rektangel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,50 +95,84 @@
       <recent name="Sprint1.Bilregister_1A" />
       <recent name="Sprint1.Test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sprint2.Bensinförbrukning_ScannerTest" />
+      <recent name="Sprint2.Bensinförbrukning_Scanner_4" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="CarTest.setOwner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BensinförbrukningTest.genereraUtskriftTest">
+    <configuration name="Bensinförbrukning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_TDD_2.Bensinförbrukning" />
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint1.Bilregister_1A.*" />
+          <option name="PATTERN" value="Sprint2.Bensinförbrukning_TDD_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint1.Bilregister_1A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint1.Bilregister_1A.CarTest" />
-      <option name="METHOD_NAME" value="setOwner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BensinförbrukningTest.genereraUtskriftStringBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sprint2.Bensinförbrukning_TDD_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_TDD_2" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_TDD_2.BensinförbrukningTest" />
+      <option name="METHOD_NAME" value="genereraUtskriftStringBuilderTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChipsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BensinförbrukningTest.genereraUtskriftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint1.Test.*" />
+          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint1.Test" />
-      <option name="MAIN_CLASS_NAME" value="Sprint1.Test.ChipsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
+      <option name="METHOD_NAME" value="genereraUtskriftTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChipsTest.getSugarContent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BensinförbrukningTest.jämförMätarställningTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint1.Test.*" />
+          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint1.Test" />
-      <option name="MAIN_CLASS_NAME" value="Sprint1.Test.ChipsTest" />
-      <option name="METHOD_NAME" value="getSugarContent" />
+      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
+      <option name="METHOD_NAME" value="jämförMätarställningTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BensinförbrukningTest.räknaUtFörbrukningPerMilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
+      <option name="METHOD_NAME" value="räknaUtFörbrukningPerMilTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,9 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CarTest.setOwner" />
-        <item itemvalue="JUnit.ChipsTest.getSugarContent" />
-        <item itemvalue="JUnit.ChipsTest" />
+        <item itemvalue="JUnit.BensinförbrukningTest.genereraUtskriftTest" />
+        <item itemvalue="JUnit.BensinförbrukningTest.räknaUtFörbrukningPerMilTest" />
+        <item itemvalue="JUnit.BensinförbrukningTest.jämförMätarställningTest" />
+        <item itemvalue="Application.Bensinförbrukning" />
+        <item itemvalue="JUnit.BensinförbrukningTest.genereraUtskriftStringBuilderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +208,10 @@
       <workItem from="1696419127373" duration="1108000" />
       <workItem from="1696497556360" duration="9000" />
       <workItem from="1696509558412" duration="4905000" />
-      <workItem from="1696611396033" duration="6166000" />
+      <workItem from="1696611396033" duration="6484000" />
+      <workItem from="1696847094134" duration="6396000" />
+      <workItem from="1696858345210" duration="1001000" />
+      <workItem from="1696924093698" duration="2376000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
