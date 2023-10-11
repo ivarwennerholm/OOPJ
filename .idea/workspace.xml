@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Bensinförbrukning_Scanner_4/Bensinförbrukning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Bensinförbrukning_TDD_2/Bensinförbrukning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/IsoscelesTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Geometriska_Figurer_1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Härmapa_3/Härmapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Bensinförbrukning_ScannerTest/BensinförbrukningTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Bensinförbrukning_TDD_2/BensinförbrukningTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/IsoscelesTriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Geometriska_Figurer_1/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Växel_TDD_6A/Växel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Växel_TDD_6A/VäxelTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,79 +90,82 @@
       <recent name="Sprint2.Bensinförbrukning_Scanner_4" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BensinförbrukningTest.genereraUtskriftTest">
-    <configuration name="Bensinförbrukning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_TDD_2.Bensinförbrukning" />
+  <component name="RunManager" selected="JUnit.VäxelTest.läsIndataExceptionTest">
+    <configuration name="VäxelTest.läsIndataExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Bensinförbrukning_TDD_2.*" />
+          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BensinförbrukningTest.genereraUtskriftStringBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOPJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sprint2.Bensinförbrukning_TDD_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_TDD_2" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_TDD_2.BensinförbrukningTest" />
-      <option name="METHOD_NAME" value="genereraUtskriftStringBuilderTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
+      <option name="METHOD_NAME" value="läsIndataExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BensinförbrukningTest.genereraUtskriftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VäxelTest.läsIndataInputMismatcExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
+          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
-      <option name="METHOD_NAME" value="genereraUtskriftTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
+      <option name="METHOD_NAME" value="läsIndataInputMismatcExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BensinförbrukningTest.jämförMätarställningTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VäxelTest.läsIndataNoSuchElementExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
+          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
-      <option name="METHOD_NAME" value="jämförMätarställningTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
+      <option name="METHOD_NAME" value="läsIndataNoSuchElementExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BensinförbrukningTest.räknaUtFörbrukningPerMilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VäxelTest.läsIndataNoSuchElementExceptionTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Bensinförbrukning_ScannerTest.*" />
+          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Bensinförbrukning_ScannerTest" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Bensinförbrukning_ScannerTest.BensinförbrukningTest" />
-      <option name="METHOD_NAME" value="räknaUtFörbrukningPerMilTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
+      <option name="METHOD_NAME" value="läsIndataNoSuchElementExceptionTwoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VäxelTest.läsIndataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
+      <option name="METHOD_NAME" value="läsIndataTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -180,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BensinförbrukningTest.genereraUtskriftTest" />
-        <item itemvalue="JUnit.BensinförbrukningTest.räknaUtFörbrukningPerMilTest" />
-        <item itemvalue="JUnit.BensinförbrukningTest.jämförMätarställningTest" />
-        <item itemvalue="Application.Bensinförbrukning" />
-        <item itemvalue="JUnit.BensinförbrukningTest.genereraUtskriftStringBuilderTest" />
+        <item itemvalue="JUnit.VäxelTest.läsIndataExceptionTest" />
+        <item itemvalue="JUnit.VäxelTest.läsIndataNoSuchElementExceptionTwoTest" />
+        <item itemvalue="JUnit.VäxelTest.läsIndataInputMismatcExceptionTest" />
+        <item itemvalue="JUnit.VäxelTest.läsIndataNoSuchElementExceptionTest" />
+        <item itemvalue="JUnit.VäxelTest.läsIndataTest" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +204,7 @@
       <workItem from="1696611396033" duration="6484000" />
       <workItem from="1696847094134" duration="6396000" />
       <workItem from="1696858345210" duration="1001000" />
-      <workItem from="1696924093698" duration="2376000" />
+      <workItem from="1696924093698" duration="18574000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
