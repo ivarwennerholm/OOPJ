@@ -1,6 +1,8 @@
-package Sprint1.Fordon_2A;
+package Sprint2.Övningsuppgift_12;
 
-public class Båt extends Fordon {
+import java.io.*;
+
+public class Båt extends Fordon implements Serializable{
     private int dödvikt;
 
     public Båt(int vikt, int dödvikt) {
@@ -29,6 +31,21 @@ public class Båt extends Fordon {
         this.dödvikt = dödvikt;
     }
 
+
+    public static void serialisera() throws IOException {
+        Båt båt = new Båt(20500, 9);
+        ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("./src/fordon.ser", true));
+        out.writeObject(båt);
+        out.flush();
+        System.out.println("båt inlagd i fordon.ser"); // TEST
+
+    }
+
+    public static Båt deserialisera() throws IOException, ClassNotFoundException {
+        ObjectInputStream in = new ObjectInputStream(new FileInputStream("./src/fordon.ser"));
+        Båt båt = (Båt) in.readObject();
+        return båt;
+    }
     @Override
     public String toString() {
         return (this.whoAmI() + "\n" +

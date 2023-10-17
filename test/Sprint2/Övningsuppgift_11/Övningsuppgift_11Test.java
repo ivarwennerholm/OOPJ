@@ -1,15 +1,31 @@
 package Sprint2.Övningsuppgift_11;
 
 import Sprint2.Övningsuppgift11.Videoband;
+import Sprint2.Övningsuppgift11.Övningsuppgift_11;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
-import java.time.Duration;
+public class Övningsuppgift_11Test {
 
-public class VideobandTest {
+    Övningsuppgift_11 övn = new Övningsuppgift_11();
+    Videoband videoband = new Videoband(240);
 
-    Videoband videoband = new Videoband();
+    @Test
+    public void VideoBandTest() {
+        int expectedValue = 240;
+        int expectedErrorValue = 100;
+        int actualValue = videoband.getBandetsLängd();
+        Assertions.assertEquals(expectedValue, actualValue);
+        Assertions.assertNotEquals(expectedErrorValue, actualValue);
+    }
 
-    public void läsInVideobandetsLängd() {
-
-        Duration videobandetsLängd 
+    @Test
+    public void inspelatPåBandetTest() {
+        int expectedValue = 140;
+        int expectedErrorValue = 100;
+        videoband.inspelatPåBand(100);
+        int actualValue = videoband.getMinuterKvar();
+        Assertions.assertEquals(expectedValue, actualValue);
+        Assertions.assertNotEquals(expectedErrorValue, actualValue);
     }
 }

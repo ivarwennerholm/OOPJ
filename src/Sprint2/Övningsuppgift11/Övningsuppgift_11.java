@@ -1,4 +1,4 @@
 package Sprint2.Övningsuppgift11;
 
-public class Videoband {
+public class Övningsuppgift_11 {
 }

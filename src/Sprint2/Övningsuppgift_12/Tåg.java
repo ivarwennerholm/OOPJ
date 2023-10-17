@@ -1,4 +1,4 @@
-package Sprint1.Fordon_2A;
+package Sprint2.Övningsuppgift_12;
 
 public class Tåg extends Fordon {
 

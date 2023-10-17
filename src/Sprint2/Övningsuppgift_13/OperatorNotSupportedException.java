@@ -1,2 +1,4 @@
-package Sprint2.Övningsuppgift_13;public class OperatorNotSupportedException {
+package Sprint2.Övningsuppgift_13;
+
+public class OperatorNotSupportedException extends Exception {
 }

@@ -1,6 +1,8 @@
-package Sprint1.Fordon_2A;
+package Sprint2.Övningsuppgift_12;
 
-public class Fordon {
+import java.io.Serializable;
+
+public abstract class Fordon implements Serializable {
     private int hastighet;
     private int vikt;
 
@@ -28,4 +30,9 @@ public class Fordon {
     public void setVikt(int vikt) {
         this.vikt = vikt;
     }
+
+    //abstract void serialisera();
+
+    //abstract deserliasera();
+
 }

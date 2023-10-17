@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab22a854-1f78-4be6-9bea-80bab0f56307" name="Changes" comment="Fungerande A-del">
-      <change afterPath="$PROJECT_DIR$/src/Sprint2/Växel_TDD_6A/Växel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sprint2/Växel_TDD_6A/VäxelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Exceptions_5/Övningsuppgift5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift11/Videoband.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift11/Övningsuppgift_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_10/Tidszon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Båt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Cykel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Fordon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_12/Tåg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_13/Kalkylator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_13/OperatorNotSupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övningsuppgift_9A/Övningsuppgift9A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprint2/Övninguppgift_8A/Övningsuppgift8A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fordon.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Övningsuppgift_11/Övningsuppgift_11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Övningsuppgift_13/KalkylatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Övningsuppgift_8A/Övningsupgift_8ATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Sprint2/Övningsuppgift_9A/Övningsuppgift_9ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,38 +60,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Sprint1/Listor_Arv_Generics_7B&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Sprint2/Övningsuppgift_12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/topicboy/MEGA/Nackademin/OOPJ/OOPJ/src/Main.java",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint2\Övningsuppgift_12" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_Arv_Generics_7B" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Listor_3B" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2D_Interface" />
       <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\Fordon_2C" />
-      <recent name="C:\Users\topicboy\MEGA\Nackademin\OOPJ\OOPJ\src\Sprint1\FordonAbstrakt_2B" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -90,82 +109,82 @@
       <recent name="Sprint2.Bensinförbrukning_Scanner_4" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VäxelTest.läsIndataExceptionTest">
-    <configuration name="VäxelTest.läsIndataExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="KalkylatorTest.OperatorNotSupportedException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="PATTERN" value="Sprint2.Övningsuppgift_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
-      <option name="METHOD_NAME" value="läsIndataExceptionTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Övningsuppgift_13" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Övningsuppgift_13.KalkylatorTest" />
+      <option name="METHOD_NAME" value="OperatorNotSupportedException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VäxelTest.läsIndataInputMismatcExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KalkylatorTest.läsInAndraOperandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="PATTERN" value="Sprint2.Övningsuppgift_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
-      <option name="METHOD_NAME" value="läsIndataInputMismatcExceptionTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Övningsuppgift_13" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Övningsuppgift_13.KalkylatorTest" />
+      <option name="METHOD_NAME" value="läsInAndraOperandTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VäxelTest.läsIndataNoSuchElementExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KalkylatorTest.läsaHelaRadenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="PATTERN" value="Sprint2.Övningsuppgift_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
-      <option name="METHOD_NAME" value="läsIndataNoSuchElementExceptionTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Övningsuppgift_13" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Övningsuppgift_13.KalkylatorTest" />
+      <option name="METHOD_NAME" value="läsaHelaRadenTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VäxelTest.läsIndataNoSuchElementExceptionTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KalkylatorTest.läsaInAndraOperandInpuMismatchExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="PATTERN" value="Sprint2.Övningsuppgift_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
-      <option name="METHOD_NAME" value="läsIndataNoSuchElementExceptionTwoTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Övningsuppgift_13" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Övningsuppgift_13.KalkylatorTest" />
+      <option name="METHOD_NAME" value="läsaInAndraOperandInpuMismatchExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VäxelTest.läsIndataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KalkylatorTest.läsaInFörstaOperandExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sprint2.Växel_TDD_6A.*" />
+          <option name="PATTERN" value="Sprint2.Övningsuppgift_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Sprint2.Växel_TDD_6A" />
-      <option name="MAIN_CLASS_NAME" value="Sprint2.Växel_TDD_6A.VäxelTest" />
-      <option name="METHOD_NAME" value="läsIndataTest" />
+      <option name="PACKAGE_NAME" value="Sprint2.Övningsuppgift_13" />
+      <option name="MAIN_CLASS_NAME" value="Sprint2.Övningsuppgift_13.KalkylatorTest" />
+      <option name="METHOD_NAME" value="läsaInFörstaOperandExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VäxelTest.läsIndataExceptionTest" />
-        <item itemvalue="JUnit.VäxelTest.läsIndataNoSuchElementExceptionTwoTest" />
-        <item itemvalue="JUnit.VäxelTest.läsIndataInputMismatcExceptionTest" />
-        <item itemvalue="JUnit.VäxelTest.läsIndataNoSuchElementExceptionTest" />
-        <item itemvalue="JUnit.VäxelTest.läsIndataTest" />
+        <item itemvalue="JUnit.KalkylatorTest.läsaInAndraOperandInpuMismatchExceptionTest" />
+        <item itemvalue="JUnit.KalkylatorTest.läsInAndraOperandTest" />
+        <item itemvalue="JUnit.KalkylatorTest.läsaInFörstaOperandExceptionTest" />
+        <item itemvalue="JUnit.KalkylatorTest.OperatorNotSupportedException" />
+        <item itemvalue="JUnit.KalkylatorTest.läsaHelaRadenTest" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +224,10 @@
       <workItem from="1696847094134" duration="6396000" />
       <workItem from="1696858345210" duration="1001000" />
       <workItem from="1696924093698" duration="18574000" />
+      <workItem from="1697094086700" duration="21147000" />
+      <workItem from="1697460899820" duration="933000" />
+      <workItem from="1697478896831" duration="595000" />
+      <workItem from="1697529691655" duration="20056000" />
     </task>
     <task id="LOCAL−00001" summary="Fungerande A-del">
       <option name="closed" value="true" />
@@ -220,6 +243,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fungerande A-del" />
     <option name="LAST_COMMIT_MESSAGE" value="Fungerande A-del" />
   </component>
