@@ -3,12 +3,8 @@ package Sprint2.Övningsuppgift_9A;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.nio.channels.AsynchronousServerSocketChannel;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Scanner;
 
 public class Övningsuppgift_9ATest {
 
