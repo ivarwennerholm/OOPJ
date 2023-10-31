@@ -1,4 +1,4 @@
-package Sprint3.Övningsuppgift_1A;
+package Sprint3.Uppgift_1A;
 
 import javax.swing.*;
 import java.awt.*;
